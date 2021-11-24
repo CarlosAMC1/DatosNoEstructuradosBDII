@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.7)  24 NOV 2021 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.7)  24 NOV 2021 17:33
 entering extended mode
-**"c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/DatosNoEstructurados.tex"
-(c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/DatosNoEstructurados.tex
+**"c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/DatosNoEstructurados.tex"
+(c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/DatosNoEstructurados.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -346,7 +346,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box51
-) (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux
+) (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux
 
 LaTeX Warning: Label `-' multiply defined.
 
@@ -478,7 +478,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 54.
 LaTeX Info: Redefining \pageref on input line 54.
 LaTeX Info: Redefining \nameref on input line 54.
- (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out) (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out)
+ (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out) (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out)
 \@outlinefile=\write3
 \openout3 = `DatosNoEstructurados.out'.
 
@@ -638,8 +638,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 494--495
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
-\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+Underfull \hbox (badness 2726) in paragraph at lines 494--495
+\T1/pplx/m/n/10 (+20) cu-per-ado Noviem-bre 24, 2021.
  []
 
 
@@ -659,27 +659,22 @@ Underfull \hbox (badness 3271) in paragraph at lines 495--496
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 495--496
-\T1/pplx/m/n/10 (+20) apli-ca-ciones mod-er-nas. Re-
+\T1/pplx/m/n/10 (+20) apli-ca-ciones mod-er-nas. Re-cu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 495--496
-\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+\T1/pplx/m/n/10 (+20) per-ado Noviem-bre 24, 2021.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 496--497
-[]\T1/pplx/m/n/10 (+20) Datademia(Noviembre 25,
- []
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 496--497
-\T1/pplx/m/n/10 (+20) 2020) ¾Qué es Mon-goDB? Re-
+\T1/pplx/m/n/10 (+20) ¾Qué es Mon-goDB? Re-cu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 496--497
-\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+\T1/pplx/m/n/10 (+20) per-ado Noviem-bre 24, 2021.
  []
 
 
@@ -698,13 +693,13 @@ Underfull \hbox (badness 1803) in paragraph at lines 497--498
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
-\T1/pplx/m/n/10 (+20) nos pode-mos en-con-trar. Re-
+Underfull \hbox (badness 3884) in paragraph at lines 497--498
+\T1/pplx/m/n/10 (+20) nos pode-mos en-con-trar. Re-cu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 497--498
-\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+\T1/pplx/m/n/10 (+20) per-ado Noviem-bre 24, 2021.
  []
 
 
@@ -729,7 +724,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 498--499
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 498--499
-\T1/pplx/m/n/10 (+20) ado Oc-tubre 11, 2021.
+\T1/pplx/m/n/10 (+20) ado Noviem-bre 24, 2021.
  []
 
 
@@ -739,22 +734,37 @@ Overfull \hbox (34.61919pt too wide) in paragraph at lines 498--499
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 499--500
-[]\T1/pplx/m/n/10 (+20) Garcia,D. (2017) Bases de
+\T1/pplx/m/n/10 (+20) NoSQL. In-tro-duc-ción. Re-cu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 499--500
-\T1/pplx/m/n/10 (+20) datos NoSQL. In-tro-duc-ción.
- []
-
-
-Underfull \hbox (badness 4205) in paragraph at lines 499--500
-\T1/pplx/m/n/10 (+20) Re-cu-per-ado Oc-tubre 11, 2021.
+\T1/pplx/m/n/10 (+20) per-ado Noviem-bre 24, 2021.
  []
 
 
 Overfull \hbox (369.03723pt too wide) in paragraph at lines 499--500
 \T1/pplx/m/n/10 (-20) https://ocw.unican.es/pluginfile.php/2396/course/section/2473/Tema%201.%20NoSQL%20introduccio%CC%81n.pdf 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+[]\T1/pplx/m/n/10 (+20) ICHI.PRO(Setiembre 2020)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+\T1/pplx/m/n/10 (+20) Re-dis VS Mon-goDB. Re-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+\T1/pplx/m/n/10 (+20) per-ado Noviem-bre 24, 2021.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+\T1/pplx/m/n/10 (+20) https://ichi.pro/es/redis-vs-
  []
 
 
@@ -768,8 +778,8 @@ Underfull \hbox (badness 2359) in paragraph at lines 501--502
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--502
-\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+Underfull \hbox (badness 2726) in paragraph at lines 501--502
+\T1/pplx/m/n/10 (+20) cu-per-ado Noviem-bre 24, 2021.
  []
 
 
@@ -783,23 +793,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 502--503
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
-\T1/pplx/m/n/10 (+20) Rueda,R (2016) Una com-
+Underfull \hbox (badness 4518) in paragraph at lines 502--503
+\T1/pplx/m/n/10 (+20) Rueda,R (2016) Una com-para-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 502--503
-\T1/pplx/m/n/10 (+20) para-ción de rendimiento en-
+\T1/pplx/m/n/10 (+20) ción de rendimiento en-tre
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 502--503
-\T1/pplx/m/n/10 (+20) tre Or-a-cle y Mon-goDB. Re-
+\T1/pplx/m/n/10 (+20) Or-a-cle y Mon-goDB. Re-cu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 502--503
-\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+\T1/pplx/m/n/10 (+20) per-ado Noviem-bre 24, 2021.
  []
 
 
@@ -843,7 +853,7 @@ l.508 \end{document}
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.508 \end{document}
-                    ] (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux)
+                    ] (c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -852,14 +862,14 @@ Package rerunfilecheck Info: File `DatosNoEstructurados.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14014 strings out of 479334
- 216363 string characters out of 2866955
+ 216738 string characters out of 2866955
  566649 words of memory out of 3000000
  30906 multiletter control sequences out of 15000+200000
  458970 words of font info for 281 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,74p,671b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,13n,74p,696b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/CarlosM/AppData/Roaming/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on "c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.pdf" (10 pages, 1480914 bytes).
+Output written on "c:/Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.pdf" (10 pages, 1480909 bytes).
 PDF statistics:
  201 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)

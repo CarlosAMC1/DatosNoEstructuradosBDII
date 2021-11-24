@@ -1,7 +1,7 @@
-PWD c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados
+PWD c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados
 INPUT C:\Users\CarlosM\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\DatosNoEstructurados.tex
-OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.log
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\DatosNoEstructurados.tex
+OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -593,10 +593,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux
-OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux
+OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -653,18 +653,18 @@ INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitl
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.pdf
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.pdf
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
 INPUT .\imagenes\logo.png
 INPUT .\imagenes\logo.png
 INPUT imagenes\logo.png
@@ -835,9 +835,9 @@ INPUT .\imagenes\10.png
 INPUT .\imagenes\10.png
 INPUT .\imagenes\10.png
 INPUT .\imagenes\10.png
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.aux
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
-INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.aux
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
+INPUT c:\Users\CarlosM\Desktop\Base De Datos II\III UNIDAD\DatosNoEstructuradosBDII\Datos no Estructurados\build\DatosNoEstructurados.out
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb

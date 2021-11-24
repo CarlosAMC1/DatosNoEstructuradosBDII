@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1637791799 "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/DatosNoEstructurados.tex" "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/build/DatosNoEstructurados.pdf" "DatosNoEstructurados" 1637791803
+["pdflatex"] 1637793200 "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/DatosNoEstructurados.tex" "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/build/DatosNoEstructurados.pdf" "DatosNoEstructurados" 1637793203
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136790254 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb9e.tfm" 1136790254 5972 0c64c4f5128ecc01ce53c9f2da598834 ""
@@ -102,11 +102,11 @@
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625497667 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "DatosNoEstructurados.tex" 1637791795 27591 1b4e70ee8755209badd9b86951763eb6 ""
-  "build/DatosNoEstructurados.aux" 1637791802 4546 a51d361f4bb696f01ffbe3e450550eee "pdflatex"
-  "build/DatosNoEstructurados.out" 1637791802 4724 07ffcb36bfb39e0d834744989a7b3ed4 "pdflatex"
-  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/DatosNoEstructurados.tex" 1637791795 27591 1b4e70ee8755209badd9b86951763eb6 ""
-  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/build/DatosNoEstructurados.aux" 1637791802 4546 a51d361f4bb696f01ffbe3e450550eee ""
+  "DatosNoEstructurados.tex" 1637793199 27611 a483400070beb0941750316ab70847fb ""
+  "build/DatosNoEstructurados.aux" 1637793203 4546 a51d361f4bb696f01ffbe3e450550eee "pdflatex"
+  "build/DatosNoEstructurados.out" 1637793203 4724 07ffcb36bfb39e0d834744989a7b3ed4 "pdflatex"
+  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/DatosNoEstructurados.tex" 1637793199 27611 a483400070beb0941750316ab70847fb ""
+  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/build/DatosNoEstructurados.aux" 1637793203 4546 a51d361f4bb696f01ffbe3e450550eee ""
   "imagenes/1.png" 1637790440 27599 c7a10463fd68c55a2c31b47daab2d775 ""
   "imagenes/10.png" 1637791600 89651 92c70b522a498a170daf6588c2d9b75a ""
   "imagenes/2.png" 1637791140 98997 dfb889135639c02c336e604cdb89cfed ""
@@ -120,8 +120,8 @@
   "imagenes/logo.png" 1633926410 56115 9f802c9b63477013a62ae6a042414454 ""
   (generated)
   "build/DatosNoEstructurados.aux"
+  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/build/DatosNoEstructurados.pdf"
+  "build/DatosNoEstructurados.pdf"
+  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/DatosNoEstructuradosBDII/Datos no Estructurados/build/DatosNoEstructurados.log"
   "build/DatosNoEstructurados.out"
   "build/DatosNoEstructurados.log"
-  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/build/DatosNoEstructurados.pdf"
-  "build/DatosNoEstructurados.pdf"
-  "c:/Users/CarlosM/Desktop/Base De Datos II/III UNIDAD/Datos no Estructurados/build/DatosNoEstructurados.log"
